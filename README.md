@@ -1,0 +1,3 @@
+Quotes Scraper
+
+A application called a "Python quote scraper app" uses the Python computer language to extract quotes from one or more websites. The software often parses the HTML or XML of a website and extracts the needed information using libraries like Beautiful Soup or Scrapy. The quotes can then be shown in a user interface or kept in a database. Python-based web scraping modules and frameworks can be used to build the application.
